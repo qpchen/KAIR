@@ -1,0 +1,10 @@
+trainsets/DIV2K
+trainsets/Flickr2K
+trainsets/DF2K
+*.png
+*.jpg
+*.tif
+*.bmp
+
+*.pth
+*.pt
